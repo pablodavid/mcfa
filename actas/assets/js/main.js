@@ -11,6 +11,10 @@ function abrirmayo(){
     let especificaciones = "height="+window.screen.availHeight+",width=800,left="+(window.screen.width/2-400);
     window.open('Acta-Mayo.pdf','Acta Mayo',especificaciones);
 }
+function abrirjunio(){
+    let especificaciones = "height="+window.screen.availHeight+",width=800,left="+(window.screen.width/2-400);
+    window.open('Acta-Junio.pdf','Acta Junio',especificaciones);
+}
 (function() {
   "use strict";
 
